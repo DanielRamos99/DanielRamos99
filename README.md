@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Ramos 👋
+## Hi there, I'm Daniel Ramos 👋
 
 ## Current Engineer Student and Code Lover! 
 
