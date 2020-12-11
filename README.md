@@ -8,9 +8,12 @@
 - 💬 Ask me about anything
 - 🥅 2021 Goals: Learn Machine Learning and Contribute more to Open Source projects
 
-## Connect with me
+### Connect with me
 
 <a href="https://www.linkedin.com/in/daniel-ramos-morales/" rel="Daniel Ramos"><img align="left" alt="DanielRamos99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
+<br />
+
+### Languages and Tools:
 
 
