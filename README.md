@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Daniel Ramos 👋
 
-<!--
-**DanielRamos99/DanielRamos99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Engineer Student and Code Lover! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on designing a controller for a manipulator robot
+- 🌱 I’m currently learning data science
+- 👯 I’m looking to collaborate with other developers 
+- 💬 Ask me about anything
+- 🥅 2021 Goals: Learn Machine Learning and Contribute more to Open Source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+[<img align="left" alt="DanielRamos99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
